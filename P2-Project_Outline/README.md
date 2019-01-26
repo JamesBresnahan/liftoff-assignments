@@ -29,8 +29,10 @@ For this assignment, you will submit a high-level outline of your project. This 
     Java
     SpringBoot
     Thymeleaf
+    BootStrap
 
 ### What I'll Have to Learn
+    Bootstrap
     How to send reminders to users email/mobile to water plants.
 
 https://www.pivotaltracker.com/n/projects/2237754
